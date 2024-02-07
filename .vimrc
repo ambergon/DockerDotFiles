@@ -1,6 +1,6 @@
 
 
-"ADD https://raw.githubusercontent.com/ambergon/DockerVimSetting/master/.vimrc /root/.vimrc
+"ADD https://raw.githubusercontent.com/ambergon/DockerDotFiles/master/.vimrc /root/.vimrc
 
 
 "jj で normalへ 
