@@ -1,5 +1,8 @@
 
 
+"ADD https://raw.githubusercontent.com/ambergon/DockerVimSetting/master/.vimrc /root/.vimrc
+
+
 "jj で normalへ 
 inoremap jj <Esc>
 
