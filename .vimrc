@@ -2,6 +2,8 @@
 
 "ADD https://raw.githubusercontent.com/ambergon/DockerDotFiles/master/.vimrc /root/.vimrc
 
+""<Leader> = space
+let mapleader = "\<Space>"
 
 "jj で normalへ 
 inoremap jj <Esc>
